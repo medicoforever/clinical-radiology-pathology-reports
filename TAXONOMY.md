@@ -1,8 +1,8 @@
 # Master Pathology Taxonomy & Report Index
 
-**Total Curated Pathologies:** 48  
-**Total Case Reports:** 144  
-**Last Updated:** 2026-08-18 18:16:05  
+**Total Curated Pathologies:** 55  
+**Total Case Reports:** 165  
+**Last Updated:** 2026-08-18 18:16:50  
 
 ---
 
@@ -15,6 +15,16 @@
 - [Crohn Disease (Terminal Ileitis)](reports/gastrointestinal/crohn_disease_terminal_ileitis.md) — *(3 case reports)*
 - [Pneumoperitoneum (Perforation)](reports/gastrointestinal/pneumoperitoneum_perforation.md) — *(3 case reports)*
 - [Small Bowel Obstruction](reports/gastrointestinal/small_bowel_obstruction.md) — *(3 case reports)*
+
+## Genitourinary
+
+- [Autosomal Dominant Polycystic Kidney Disease](reports/genitourinary/autosomal_dominant_polycystic_kidney_disease.md) — *(3 case reports)*
+- [Endometrioma](reports/genitourinary/endometrioma.md) — *(3 case reports)*
+- [Mature Ovarian Teratoma (Dermoid)](reports/genitourinary/mature_ovarian_teratoma_dermoid.md) — *(3 case reports)*
+- [Prostate Carcinoma (PI-RADS)](reports/genitourinary/prostate_carcinoma_pi-rads.md) — *(3 case reports)*
+- [Renal Cell Carcinoma](reports/genitourinary/renal_cell_carcinoma.md) — *(3 case reports)*
+- [Ureteric Calculus & Hydronephrosis](reports/genitourinary/ureteric_calculus_hydronephrosis.md) — *(3 case reports)*
+- [Urinary Bladder Carcinoma](reports/genitourinary/urinary_bladder_carcinoma.md) — *(3 case reports)*
 
 ## Head And Neck
 
