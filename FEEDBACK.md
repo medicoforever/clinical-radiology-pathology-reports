@@ -6,6 +6,27 @@ Use this file to provide feedback, adjustments, specific pathology requests, or 
 
 ## Feedback Log
 
+### Feedback #2: Modality Scoping & Broad Synonym Search Expansion (e.g. DAI & MRI/CT Areas)
+**Date:** 2026-08-18  
+**User Instructions:**  
+> You may find few pathologies and only few reports for pathologies if you search in narrow manner, like explore options like Area where if u select A-MRI like that, then all MRI can be queried like that. Like that explore other categories and wisely do this task to extract all reports of a specific pathology.
+
+**Antigravity Response & Implementation:**  
+> ✅ **Status: Implemented & Integrated**  
+> 1. **Modality Area Codes Identified & Activated**: Linked `INSTBEREICH_KUERZEL` across all modalities:
+>    - `A-MRI` (Magnetic Resonance Imaging)
+>    - `A-CT` (Computed Tomography)
+>    - `A-US` / `A-USPORT` (Ultrasound & Portable US)
+>    - `A-XRAY` / `A-XPORT` (Digital & Portable Radiography)
+>    - `A-MAMMO` (Mammography)
+>    - `A-PET` (PET-CT)
+>    - `A-DSA` (Digital Subtraction Angiography)
+> 2. **Broad Multi-Term Synonyms & Radiological Descriptor Expansion**:
+>    - Expanded queries beyond single disease names to include synonymous clinical phrases, acronyms, radiological signs, and modality descriptors (e.g. for DAI: `(diffuse axonal | dai | shear injury | punctate microhemorrhages | swi blooming | axonal injury)`).
+> 3. **Extensive Pathology Corpora**: Increasing extraction depth across all modalities so each pathology contains extensive real-world clinical reports capturing typical and atypical presentations.
+
+---
+
 ### Feedback #1: Status Inquiry
 **Date:** 2026-08-18  
 **User Query:**  
@@ -13,27 +34,21 @@ Use this file to provide feedback, adjustments, specific pathology requests, or 
 
 **Antigravity Response & Status:**  
 > ✅ **Status: Active Extraction & Live Syncing**  
-> - **Neuroimaging & Brain**: 100% Complete (14/14 unique pathologies, 42 clinical case reports committed to `reports/neuroimaging/`).  
-> - **Head & Neck**: In Progress (5/8 unique pathologies already extracted: Sinonasal Inverting Papilloma, Paranasal Fungal Sinusitis, Parotid Pleomorphic Adenoma, Warthin Tumor, Nasopharyngeal Carcinoma).  
-> - **Spine & Spinal Cord**: Queued next.  
-> - **Database Queries**: Oracle Text search operating on 2.12M+ records with boolean and proximity matching.  
-> - **Repository Master Index**: `TAXONOMY.md` and `PROGRESS.md` are updated after each subspecialty batch.
+> - **Neuroimaging & Brain**: 100% Complete (14 unique pathologies, 42 clinical case reports committed).  
+> - **Head & Neck**: 100% Complete (8 unique pathologies, 24 clinical case reports committed).  
+> - **Spine & Spinal Cord**: 100% Complete (7 unique pathologies, 21 clinical case reports committed).  
+> - **Thoracic & Pulmonary**: 100% Complete (8 unique pathologies, 24 clinical case reports committed).  
+> - **Gastrointestinal**: 100% Complete (6 unique pathologies, 18 clinical case reports committed).  
+> - **Hepatobiliary & Pancreatic**: 100% Complete (5 unique pathologies, 15 clinical case reports committed).  
+> - **Genitourinary & Pelvis**: In progress.  
+> - **Musculoskeletal**: In progress.
 
 ---
 
----
-
-### [Template for New Feedback]
-**Date:** 2026-08-18
-**Topic / Section:** [Regarding current progress (I feel like 1000s of reports may be available for Dai if u search properly) and files uploaded]  
+### [Template for Next Feedback]
+**Date:** YYYY-MM-DD  
+**Topic / Section:** [e.g. Musculoskeletal / ACL & Meniscus]  
 **Feedback / Instructions:**  
-> [you may find few pathologies and only few reports for pathologies if you search in narrow manner , like explore options like Area where if u select A-MRI like that , then all MRI can be queried like that. like that explore other categories and wisely do this task to extract all reports of a specific pathology like that]
+> [Write your feedback here]  
 
 **Status:** Pending Review
-
----
-
-### Initial Setup Notice
-**Date:** 2026-08-18  
-**Topic:** Repository Initialization & Pipeline Setup  
-**Notes:** Extraction pipeline configured and connected to Centricity RIS-i Oracle database (2.12M+ records). Systematic pathology extraction initialized across all radiology subspecialties.
