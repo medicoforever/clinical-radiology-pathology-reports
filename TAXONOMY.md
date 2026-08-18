@@ -1,8 +1,8 @@
 # Master Pathology Taxonomy & Report Index
 
-**Total Curated Pathologies:** 43  
-**Total Case Reports:** 129  
-**Last Updated:** 2026-08-18 18:15:34  
+**Total Curated Pathologies:** 48  
+**Total Case Reports:** 144  
+**Last Updated:** 2026-08-18 18:16:05  
 
 ---
 
@@ -26,6 +26,14 @@
 - [Parotid Pleomorphic Adenoma](reports/head_and_neck/parotid_pleomorphic_adenoma.md) — *(3 case reports)*
 - [Sinonasal Inverting Papilloma](reports/head_and_neck/sinonasal_inverting_papilloma.md) — *(3 case reports)*
 - [Warthin Tumor](reports/head_and_neck/warthin_tumor.md) — *(3 case reports)*
+
+## Hepatobiliary Pancreatic
+
+- [Acute Pancreatitis](reports/hepatobiliary_pancreatic/acute_pancreatitis.md) — *(3 case reports)*
+- [Choledocholithiasis](reports/hepatobiliary_pancreatic/choledocholithiasis.md) — *(3 case reports)*
+- [Hepatic Hemangioma](reports/hepatobiliary_pancreatic/hepatic_hemangioma.md) — *(3 case reports)*
+- [Hepatocellular Carcinoma (HCC)](reports/hepatobiliary_pancreatic/hepatocellular_carcinoma_hcc.md) — *(3 case reports)*
+- [Pancreatic Adenocarcinoma](reports/hepatobiliary_pancreatic/pancreatic_adenocarcinoma.md) — *(3 case reports)*
 
 ## Neuroimaging
 
