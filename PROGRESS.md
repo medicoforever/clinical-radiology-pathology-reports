@@ -1,10 +1,10 @@
 # Extraction & Curation Progress Dashboard
 
-**Last Updated:** 2026-08-18 18:01:44  
+**Last Updated:** 2026-08-18 18:09:41  
 **Database Source:** Centricity RIS-i (Oracle Database - KMCHRIS:1521/rad)  
 **Total Database Records:** 2,126,765  
-**Total Curated Pathologies Extracted:** 14  
-**Total Clinical Reports Processed:** 42  
+**Total Curated Pathologies Extracted:** 22  
+**Total Clinical Reports Processed:** 66  
 **Current Status:** Active Processing  
 
 ---
@@ -14,10 +14,11 @@
 | Subspecialty | Target Pathologies | Processed | Reports Extracted | Coverage |
 | :--- | :---: | :---: | :---: | :---: |
 | **Neuroimaging** | 14 | 14 | 42 | 100% |
+| **Head And Neck** | 8 | 8 | 24 | 100% |
 
 ---
 
 ## Latest Batch Committed
-- Completed subspecialty: **Neuroimaging**
-- Added **14** unique pathology files (42 clinical reports).
+- Completed subspecialty: **Head And Neck**
+- Added **8** unique pathology files (24 clinical reports).
 - Synchronized `TAXONOMY.md` and `PROGRESS.md`.
