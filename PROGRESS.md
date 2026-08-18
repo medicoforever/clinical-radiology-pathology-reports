@@ -1,31 +1,23 @@
 # Extraction & Curation Progress Dashboard
 
-**Last Updated:** Initial Setup  
-**Database Source:** Centricity RIS-i (GE Healthcare / Oracle DB)  
+**Last Updated:** 2026-08-18 18:01:44  
+**Database Source:** Centricity RIS-i (Oracle Database - KMCHRIS:1521/rad)  
 **Total Database Records:** 2,126,765  
+**Total Curated Pathologies Extracted:** 14  
+**Total Clinical Reports Processed:** 42  
 **Current Status:** Active Processing  
 
 ---
 
-## Subspecialty Metrics
+## Subspecialty Metrics Summary
 
-| Subspecialty | Target Pathologies | Processed Pathologies | Reports Extracted | Status |
+| Subspecialty | Target Pathologies | Processed | Reports Extracted | Coverage |
 | :--- | :---: | :---: | :---: | :---: |
-| **Neuroimaging & Brain** | 120+ | Initializing | 0 | In Progress |
-| **Head & Neck** | 60+ | Initializing | 0 | In Progress |
-| **Spine & Spinal Cord** | 70+ | Initializing | 0 | In Progress |
-| **Thoracic & Pulmonary** | 90+ | Initializing | 0 | In Progress |
-| **Cardiovascular** | 60+ | Initializing | 0 | In Progress |
-| **Gastrointestinal** | 80+ | Initializing | 0 | In Progress |
-| **Hepatobiliary & Pancreas** | 75+ | Initializing | 0 | In Progress |
-| **Genitourinary & Pelvis** | 85+ | Initializing | 0 | In Progress |
-| **Musculoskeletal** | 110+ | Initializing | 0 | In Progress |
-| **Pediatric & Fetal** | 60+ | Initializing | 0 | In Progress |
-| **Emergency & Trauma** | 50+ | Initializing | 0 | In Progress |
+| **Neuroimaging** | 14 | 14 | 42 | 100% |
 
 ---
 
-## Recent Activity Log
-- Initialized database connector with Oracle Text domain index support.
-- Built automated extractor for Boolean queries (AND, OR, NOT, NEAR).
-- Created `FEEDBACK.md` for live review and instructions.
+## Latest Batch Committed
+- Completed subspecialty: **Neuroimaging**
+- Added **14** unique pathology files (42 clinical reports).
+- Synchronized `TAXONOMY.md` and `PROGRESS.md`.
