@@ -1,8 +1,8 @@
 # Master Pathology Taxonomy & Report Index
 
-**Total Curated Pathologies:** 55  
-**Total Case Reports:** 165  
-**Last Updated:** 2026-08-18 18:16:50  
+**Total Curated Pathologies:** 61  
+**Total Case Reports:** 183  
+**Last Updated:** 2026-08-18 18:17:17  
 
 ---
 
@@ -44,6 +44,15 @@
 - [Hepatic Hemangioma](reports/hepatobiliary_pancreatic/hepatic_hemangioma.md) — *(3 case reports)*
 - [Hepatocellular Carcinoma (HCC)](reports/hepatobiliary_pancreatic/hepatocellular_carcinoma_hcc.md) — *(3 case reports)*
 - [Pancreatic Adenocarcinoma](reports/hepatobiliary_pancreatic/pancreatic_adenocarcinoma.md) — *(3 case reports)*
+
+## Musculoskeletal
+
+- [Anterior Cruciate Ligament (ACL) Tear](reports/musculoskeletal/anterior_cruciate_ligament_acl_tear.md) — *(3 case reports)*
+- [Giant Cell Tumor of Bone](reports/musculoskeletal/giant_cell_tumor_of_bone.md) — *(3 case reports)*
+- [Meniscal Tear (Bucket Handle)](reports/musculoskeletal/meniscal_tear_bucket_handle.md) — *(3 case reports)*
+- [Osteomyelitis & Septic Arthritis](reports/musculoskeletal/osteomyelitis_septic_arthritis.md) — *(3 case reports)*
+- [Osteosarcoma](reports/musculoskeletal/osteosarcoma.md) — *(3 case reports)*
+- [Rotator Cuff Tear (Supraspinatus)](reports/musculoskeletal/rotator_cuff_tear_supraspinatus.md) — *(3 case reports)*
 
 ## Neuroimaging
 
