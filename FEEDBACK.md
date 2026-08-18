@@ -20,7 +20,7 @@ Use this file to provide feedback, adjustments, specific pathology requests, or 
 **Date:** YYYY-MM-DD  
 **Topic / Section:** [e.g. Neuroimaging / Glioblastoma]  
 **Feedback / Instructions:**  
-> [Write your feedback here]  
+> [What is the status now?]  
 
 **Status:** Pending Review
 
