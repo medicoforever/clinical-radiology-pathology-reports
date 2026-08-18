@@ -1,8 +1,8 @@
 # Master Pathology Taxonomy & Report Index
 
-**Total Curated Pathologies:** 29  
-**Total Case Reports:** 87  
-**Last Updated:** 2026-08-18 18:12:12  
+**Total Curated Pathologies:** 37  
+**Total Case Reports:** 111  
+**Last Updated:** 2026-08-18 18:14:50  
 
 ---
 
@@ -44,3 +44,14 @@
 - [Spinal Cord Ependymoma](reports/spine/spinal_cord_ependymoma.md) — *(3 case reports)*
 - [Spinal Schwannoma](reports/spine/spinal_schwannoma.md) — *(3 case reports)*
 - [Vertebral Compression Fracture](reports/spine/vertebral_compression_fracture.md) — *(3 case reports)*
+
+## Thoracic
+
+- [Acute Pulmonary Thromboembolism](reports/thoracic/acute_pulmonary_thromboembolism.md) — *(3 case reports)*
+- [Anterior Mediastinal Thymoma](reports/thoracic/anterior_mediastinal_thymoma.md) — *(3 case reports)*
+- [Aortic Dissection (Type A & B)](reports/thoracic/aortic_dissection_type_a_b.md) — *(3 case reports)*
+- [Bronchogenic Carcinoma](reports/thoracic/bronchogenic_carcinoma.md) — *(3 case reports)*
+- [Cavitary Pulmonary Tuberculosis](reports/thoracic/cavitary_pulmonary_tuberculosis.md) — *(3 case reports)*
+- [Idiopathic Pulmonary Fibrosis (UIP)](reports/thoracic/idiopathic_pulmonary_fibrosis_uip.md) — *(3 case reports)*
+- [Non-Specific Interstitial Pneumonia (NSIP)](reports/thoracic/non-specific_interstitial_pneumonia_nsip.md) — *(3 case reports)*
+- [Tension Pneumothorax](reports/thoracic/tension_pneumothorax.md) — *(3 case reports)*
