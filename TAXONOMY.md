@@ -1,11 +1,20 @@
 # Master Pathology Taxonomy & Report Index
 
-**Total Curated Pathologies:** 37  
-**Total Case Reports:** 111  
-**Last Updated:** 2026-08-18 18:14:50  
+**Total Curated Pathologies:** 43  
+**Total Case Reports:** 129  
+**Last Updated:** 2026-08-18 18:15:34  
 
 ---
 
+
+## Gastrointestinal
+
+- [Acute Appendicitis](reports/gastrointestinal/acute_appendicitis.md) — *(3 case reports)*
+- [Colonic Diverticulitis](reports/gastrointestinal/colonic_diverticulitis.md) — *(3 case reports)*
+- [Colorectal Carcinoma](reports/gastrointestinal/colorectal_carcinoma.md) — *(3 case reports)*
+- [Crohn Disease (Terminal Ileitis)](reports/gastrointestinal/crohn_disease_terminal_ileitis.md) — *(3 case reports)*
+- [Pneumoperitoneum (Perforation)](reports/gastrointestinal/pneumoperitoneum_perforation.md) — *(3 case reports)*
+- [Small Bowel Obstruction](reports/gastrointestinal/small_bowel_obstruction.md) — *(3 case reports)*
 
 ## Head And Neck
 
