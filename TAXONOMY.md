@@ -1,8 +1,8 @@
 # Master Pathology Taxonomy & Report Index
 
-**Total Curated Pathologies:** 22  
-**Total Case Reports:** 66  
-**Last Updated:** 2026-08-18 18:09:41  
+**Total Curated Pathologies:** 29  
+**Total Case Reports:** 87  
+**Last Updated:** 2026-08-18 18:12:12  
 
 ---
 
@@ -34,3 +34,13 @@
 - [Subarachnoid Hemorrhage (SAH)](reports/neuroimaging/subarachnoid_hemorrhage_sah.md) — *(3 case reports)*
 - [Subdural Hematoma (SDH)](reports/neuroimaging/subdural_hematoma_sdh.md) — *(3 case reports)*
 - [Vestibular Schwannoma](reports/neuroimaging/vestibular_schwannoma.md) — *(3 case reports)*
+
+## Spine
+
+- [Ankylosing Spondylitis](reports/spine/ankylosing_spondylitis.md) — *(3 case reports)*
+- [Cervical Spondylotic Myelopathy](reports/spine/cervical_spondylotic_myelopathy.md) — *(3 case reports)*
+- [Infectious Spondylodiscitis](reports/spine/infectious_spondylodiscitis.md) — *(3 case reports)*
+- [Lumbar Disc Extrusion](reports/spine/lumbar_disc_extrusion.md) — *(3 case reports)*
+- [Spinal Cord Ependymoma](reports/spine/spinal_cord_ependymoma.md) — *(3 case reports)*
+- [Spinal Schwannoma](reports/spine/spinal_schwannoma.md) — *(3 case reports)*
+- [Vertebral Compression Fracture](reports/spine/vertebral_compression_fracture.md) — *(3 case reports)*
