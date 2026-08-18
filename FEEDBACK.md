@@ -21,11 +21,13 @@ Use this file to provide feedback, adjustments, specific pathology requests, or 
 
 ---
 
-### [Template for Next Feedback]
-**Date:** YYYY-MM-DD  
-**Topic / Section:** [e.g. Spine / Lumbar Extrusion]  
+---
+
+### [Template for New Feedback]
+**Date:** 2026-08-18
+**Topic / Section:** [Regarding current progress (I feel like 1000s of reports may be available for Dai if u search properly) and files uploaded]  
 **Feedback / Instructions:**  
-> [Write your feedback here]  
+> [you may find few pathologies and only few reports for pathologies if you search in narrow manner , like explore options like Area where if u select A-MRI like that , then all MRI can be queried like that. like that explore other categories and wisely do this task to extract all reports of a specific pathology like that]
 
 **Status:** Pending Review
 
